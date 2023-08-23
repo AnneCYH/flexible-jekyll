@@ -1,0 +1,6 @@
+jekyll_ssg: '[Jekyll](https://jekyllrb.com/){:target="_blank"}'
+jekyll_variables: '[variables](https://jekyllrb.com/docs/variables/){:target="_blank"}'
+jekyll_include: '[include tag](https://jekyllrb.com/docs/includes/){:target="_blank"}'
+jekyll_liquid: '[Liquid templating language](https://jekyllrb.com/docs/liquid/){:target="_blank"}'
+
+wkhtmltopdf: '[wkhtmltopdf](https://wkhtmltopdf.org/)'
