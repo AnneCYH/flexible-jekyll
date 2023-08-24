@@ -141,7 +141,7 @@ Markdown, Liquid, and HTML.
 Jekyll\'s layout files lets you define multiple page templates that can be used
 for different content types in your site.
 
-There were also many free Jekyll themes available which could be used as a base
+There are also many free Jekyll themes available which could be used as a base
 template for my documentation site.
 
 ## What was missing from Jekyll
