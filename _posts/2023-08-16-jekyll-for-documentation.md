@@ -35,7 +35,7 @@ tool)._
 
 This is the obvious factor that triggered the search for an alternative
 documentation tool to begin with.
-Since Jekyll is a free and open source tool, this encouraged to look more
+Since Jekyll is a free and open source tool, this encouraged me to look more
 closely at the features available in Jekyll.
 
 ### Support for shared and reusable content
